@@ -83,27 +83,27 @@ console.log(keyPressed);
    }
   if (keyPressed == '70')
     {
-      new_image ('ironman_face.png');
+      new_image ('imgs/ironman_face.png');
       console.log ("f");
     }
    if (keyPressed == '66')
     {
-      new_image ('spiderman_body.png');
+      new_image ('imgs/spiderman_body.png');
       console.log ("b");
     }
    if (keyPressed == '76')
     {
-      new_image ('hulk_leg.png');
+      new_image ('imgs/hulk_leg.png');
       console.log ("l");
     }
    if (keyPressed == '82')
     {
-      new_image ('thor_right_hand.png');
+      new_image ('imgs/thor_right_hand.png');
       console.log ("r");
     }
    if (keyPressed == '72')
     {
-      new_image ('captian_america_left_hand.png');
+      new_image ('imgs/captian_america_left_hand.png');
       console.log ("h");
     }
 }
